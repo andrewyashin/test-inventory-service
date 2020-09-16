@@ -54,7 +54,7 @@ public class VendingMachineProductService implements ProductService {
 		if (product != null) {
 			product.setDisabled(false);
 			return productRepository.save(product);
-=		}
+		}
 
 		return null;
 	}
