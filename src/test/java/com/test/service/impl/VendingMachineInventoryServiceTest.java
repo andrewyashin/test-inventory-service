@@ -8,7 +8,6 @@ import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
-import org.springframework.test.context.junit4.SpringRunner;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.when;
